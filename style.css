@@ -205,6 +205,13 @@ img#beta {
   right: 0px;
 }
 
+img#feedback {
+  opacity: 1;
+  position: fixed;
+  top: 300px;
+  left: 0px;
+}
+
 img:hover {
   opacity: 1;
 }
